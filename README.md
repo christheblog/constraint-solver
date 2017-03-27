@@ -1,7 +1,7 @@
 # As small constraint-solver implementation
 
 
-Trying to build a constraint-solver able to solve classic constraint-solving problem.
+Trying to build a solver able to solve classic constraint-solving problems.
 
 _Note : This is an on-going work, and the design is still not final.
 Idea would be to reach a design where one can plug a domain (custom or not) and a consistency algorithm (custom or not) into a generic problem solver._
